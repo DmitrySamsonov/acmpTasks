@@ -1,0 +1,4 @@
+#ignore idea
+acmpTasks.iml
+.idea/
+target/
